@@ -1,4 +1,4 @@
-#🌲Cypress Course
+# 🌲Cypress Course
 
 Projeto criado como parte de um curso de **testes automatizados utilizando Cypress**.  
 O objetivo é praticar e demonstrar boas práticas de automação de testes de front-end.
@@ -12,8 +12,9 @@ Sugestão: utilizar as versões mais recentes disponíveis.
 
 Execute o comando abaixo para instalar as dependências do projeto:
 
-bash
-'npm install'
+```
+npm install
+```
 
 ## Conteúdo?
 
